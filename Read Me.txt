@@ -1,0 +1,10 @@
+1- Başlıklara text-center classı ekledi, böylece hepsine teker teker
+text-align:center yazmadı.
+
+2-"h2,h3,p {
+    margin-bottom:1em;
+}" kısmı önemliydi. Böylece, yine teker teker p lere, h2'lere
+margin belirlemedi. Başlık ile h2 arasındaki margini de korumak
+ için h1'i eklemedi.
+
+ 3-
